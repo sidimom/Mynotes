@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My notes</string>
+    <string name="btn_add_note">Add note</string>
+    <string name="btn_edit_note">Edit note</string>
+    <string name="btn_sign"><![CDATA[>]]></string>
+    <string name="btn_delete_note">Delete note</string>
+</resources>
